@@ -14,8 +14,8 @@ A Windows voice transcription app that lets you dictate text anywhere using a ho
 ## Requirements
 
 - Windows 10/11
-- [FFmpeg](https://ffmpeg.org/) in PATH or in a `bin/` folder next to the EXE
-- Python 3.10+ (if running from source)
+- **EXE release**: no installs needed — Python and FFmpeg are both bundled inside the package
+- **Running from source**: Python 3.10+ required (FFmpeg must be in PATH or in a `bin/` folder)
 
 ## Install (from source)
 
